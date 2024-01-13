@@ -18,7 +18,7 @@ There are four work item processes available:
 Agile Process:-
 Epic:-product backlock 
 Feature:-product backlock
-User Story:- It is moved from one product to sprint backlock, (new ,active, completed, inprocess,) 
+User Story:- It is moved from one product to sprint backlock, (new ,active, completed, inprocess,) [used in sprint]
 [Bug:-you can sepragte normal user story and bug and assign multiple task in the bug]
 Task:-
 
@@ -33,27 +33,33 @@ Task:-
 Epic:-Product backlock level
 Feautre:-Product backlock level
 Requirement:-Proposed ,active, resolved, closed.
-[Bug:-you can sepragte normal user story and bug and assign multiple task in the bug]
+[Bug:-you can sepragte normal user story and bug and assign multiple tasks in the bug]
 Task:-
 
 --------------------------------Basic process----------------------------------------
 Used for small teams
-Epic:-Product backlock level
+Epic:-Product backlog level
 Issue:-
 Task:-
 
 ----------------------------------Licensing----------------------------------------------------
-1)Basic:- access to all service offering ,except test plan,
-        first five users included for free
+1)Basic:- access to all service offerings, except test plan,
+        The first five users are included for free
 2)Basic+Test plans:- Bsic+ Test Mangement
 3)stakeholder:- work management, 
                 no source control access, 
-                build and relase pipelines , 
+                build and release pipelines, 
                 no access to test offerings, 
-                read-onlyu dashboaard access.
-4) Private Projects :- 1concurrent CI/CD hosted jobs with 1800 mintes per month
-                        1 concueernt CI/CD self hosted jobs with unlimited munutes
+                read-only dashboard access.
+4) Private Projects:- 1concurrent CI/CD hosted jobs with 1800 minutes per month
+                        1 concurrent CI/CD self-hosted job with unlimited minutes
                         2GB of storafge for Azure ARtifacts
-5) Public Projects:- 10 concurrent CI/CD hosted jobs with unlimited mminutes incluided
-                      free access to boards, repositories and pipelines for anomymous users.
+5) Public Projects:- 10 concurrent CI/CD hosted jobs with unlimited minutes included
+                      free access to boards, repositories, and pipelines for anonymous users.
 ---------------------------------------------------------------------------------------------------
+
+----------------------------Azure Boards-----------------------------------------
+
+
+
+
