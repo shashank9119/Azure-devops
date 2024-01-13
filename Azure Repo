@@ -1,1 +1,20 @@
+1) CentraliZed:- All branches and changes are on the server
+                 You only have your own latest changes
+Centralized source control:-
+1] The server has all the branches and changes
+2] your client only has the current version and your changes
+3] comparing files, listing history connects to the server
+4] files are checked out or locked when you change them
+5] access control per individual directory or file
+6] maximum of one repository per team project
+7] Is still fully supported but not recommended for new  projects.
 
+2) Decentralized:- You have all branches and changes locally as well
+
+Decentralized source control:-
+1] your client has all the branches and changes
+2] works disconnected, you only connect to fetch or push new changes
+3] files are not checked out or locked in any way
+4] supports multiple repositories per team project 
+5] more complex to work with at first
+6] is recommended for new projects.
