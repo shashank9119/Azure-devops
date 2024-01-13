@@ -1,0 +1,63 @@
+Organization=toyato
+Team Project1(innova) and team project2 (fortuner)
+Team1 of Project1(innova)=Devlopment
+Team2=Testing
+Team3=Devops
+--------------------------------------------------------------------------------------------------------------
+All the projects are separated for another project.
+Type of Project 
+1] Public=It publically accessible and it has unlimited free read access to the user.
+
+2] Private =It is only accessible for private users or sign users with proper authentication, it has a default limit on pipelines, agents, etc apply
+
+
+There are four work item processes available:
+1)Agile process
+2)scrum process
+3)CMMI process
+4)basic process
+
+---------------------------------Agile Process--------------------------------------------
+Epic:-product backlog 
+Feature:-product backlog
+User Story:- It is moved from one product to sprint backlog, (new, active, completed, inprocess,) [used in a sprint]
+[Bug:-you can separate normal user story and bug and assign multiple tasks in the bug]
+Task:-task
+
+---------------------------------Scrum Process--------------------------------------
+Epic:-Product backlog level
+Feautre:-Product backlock level
+PBI:- New, Approved, committed, and done.
+[Bug:-you can separate normal user story and bug and assign multiple tasks in the bug]
+Task:-
+
+--------------------------------CMMI Process-----------------------------------------
+Epic:-Product backlog level
+Feautre:-Product backlock level
+Requirement:- Proposed, active, resolved, closed.
+[Bug:-you can separate normal user story and bug and assign multiple tasks in the bug]
+Task:-
+
+--------------------------------Basic process----------------------------------------
+Used for small teams
+Epic:-Product backlog level
+Issue:-
+Task:-
+
+----------------------------------Licensing----------------------------------------------------
+1)Basic:- access to all service offerings, except test plan,
+        The first five users are included for free
+2)Basic+Test plans:- Bsic+ Test Mangement
+3)stakeholder:- work management, 
+                no source control access, 
+                build and release pipelines, 
+                no access to test offerings, 
+                read-only dashboard access.
+4) Private Projects:- 1concurrent CI/CD hosted jobs with 1800 minutes per month
+                        1 concurrent CI/CD self-hosted job with unlimited minutes
+                        2GB of storafge for Azure ARtifacts
+5) Public Projects:- 10 concurrent CI/CD hosted jobs with unlimited minutes included
+                      free access to boards, repositories, and pipelines for anonymous users.
+---------------------------------------------------------------------------------------------------------------------------
+
+----------------------------Azure Boards-----------------------------------------
