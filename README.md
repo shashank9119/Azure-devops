@@ -3,37 +3,39 @@ Team Project1(innova) and team project2 (fortuner)
 Team1 of Project1(innova)=Devlopment
 Team2=Testing
 Team3=Devops
---------------------------------
-All the project are seprated for another project.
+--------------------------------------------------------------------------------------------------------------
+All the projects are separated for another project.
 Type of Project 
-1 Public=It publically acceceble and it has unlimited free read accesss to user.
+1] Public=It publically accessible and it has unlimited free read access to the user.
 
-2 Private =It only accesble for private user or sign user with proper authentication ,it has default limit on pipelines, agenet,etc apply
+2] Private =It is only accessible for private users or sign users with proper authentication, it has a default limit on pipelines, agents, etc apply
+
+
 There are four work item processes available:
 1)Agile process
 2)scrum process
 3)CMMI process
 4)basic process
 
-Agile Process:-
-Epic:-product backlock 
-Feature:-product backlock
-User Story:- It is moved from one product to sprint backlock, (new ,active, completed, inprocess,) [used in sprint]
-[Bug:-you can sepragte normal user story and bug and assign multiple task in the bug]
-Task:-
+---------------------------------Agile Process--------------------------------------------
+Epic:-product backlog 
+Feature:-product backlog
+User Story:- It is moved from one product to sprint backlog, (new, active, completed, inprocess,) [used in a sprint]
+[Bug:-you can separate normal user story and bug and assign multiple tasks in the bug]
+Task:-task
 
 ---------------------------------Scrum Process--------------------------------------
-Epic:-Product backlock level
+Epic:-Product backlog level
 Feautre:-Product backlock level
-PBI:-New ,Approve, commited and done.
-[Bug:-you can sepragte normal user story and bug and assign multiple task in the bug]
+PBI:- New, Approved, committed, and done.
+[Bug:-you can separate normal user story and bug and assign multiple tasks in the bug]
 Task:-
 
 --------------------------------CMMI Process-----------------------------------------
-Epic:-Product backlock level
+Epic:-Product backlog level
 Feautre:-Product backlock level
-Requirement:-Proposed ,active, resolved, closed.
-[Bug:-you can sepragte normal user story and bug and assign multiple tasks in the bug]
+Requirement:- Proposed, active, resolved, closed.
+[Bug:-you can separate normal user story and bug and assign multiple tasks in the bug]
 Task:-
 
 --------------------------------Basic process----------------------------------------
@@ -56,7 +58,7 @@ Task:-
                         2GB of storafge for Azure ARtifacts
 5) Public Projects:- 10 concurrent CI/CD hosted jobs with unlimited minutes included
                       free access to boards, repositories, and pipelines for anonymous users.
----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------Azure Boards-----------------------------------------
 
